@@ -1,5 +1,5 @@
 # Projeto Lista de Compras
-<img src="lista-compras.jpg" alt="Image do Projeto" width="800"/>
+<img src="lista-compras.jpg" alt="Image do Projeto" width="400"/>
 Este projeto é um aplicativo móvel para gerenciamento de listas de compras, desenvolvido com **Expo**. Ele permite que os usuários adicionem, visualizem e gerenciem suas compras de forma fácil e eficiente diretamente em seus dispositivos móveis.
 
 ## Desenvolvimento
